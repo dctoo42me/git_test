@@ -1,1 +1,5 @@
-I am editing this txt file. Deving it up!
+I am editing this txt file. Deving it up! 
+Making another edit to this file. going to try the
+(git config --global core.editor "code --wait")
+command which is supposed to open up a new tab that will prompt 
+me to write a commit message. Here goes...
